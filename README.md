@@ -1,2 +1,2 @@
 
-<iframe src = "beauty.html" name="targetframe" allowTransparency="true"></iframe>
+<iframe src = "beauty.html" style="height:100% ;width:100%;" allowTransparency="true"></iframe>
